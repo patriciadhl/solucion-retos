@@ -18,4 +18,4 @@ Descripción: Escriba una función 'computeAverageLengthOfWords' que recibe dos 
 
 A continuación se incluye el diagrama de flujo.
 
-![Diagrama de flujo] (/computeAverageLengthOfWords.jpg)
+![Diagrama de flujo] (computeAverageLengthOfWords/computeAverageLengthOfWords.jpg)
